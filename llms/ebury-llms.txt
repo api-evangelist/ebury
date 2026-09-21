@@ -1,0 +1,193 @@
+# Ebury
+
+> Ebury is a global fintech platform specializing in international payments, foreign exchange (FX), and working capital solutions for businesses. Majority-owned by Banco Santander, Ebury enables companies to pay, collect, hedge, and finance across borders through a single platform.
+
+## Company Overview
+
+Ebury provides global accounts built for ambitious businesses, helping them grow internationally through a unified platform. The company operates across 30+ regulated markets with 50+ offices and 2,000+ multilingual experts, serving growing businesses, enterprises, and institutions.
+
+- **Headquarters:** London, United Kingdom
+- **Parent Company:** Majority-owned by Banco Santander
+- **Reach:** 160+ countries, 140+ currencies supported
+- **Offices:** 50+ locations globally
+- **Regulated Markets:** 30+
+
+## Products
+
+### Business Accounts
+- Send, manage, and receive global money
+- Multi-currency accounts in 29+ currencies across 20+ countries
+- Local collection accounts in 30+ countries
+- Same-day cross-border transfers
+- Mass payments and batch processing
+- Corporate cards (virtual and physical) with multi-currency support
+- Real-time subsidiary transfers with zero charges
+- Custom approval workflows
+
+### Hedge (FX Risk Management)
+- Spot FX and limit orders
+- Forward contracts (1 week to 10 years)
+- Options contracts
+- Non-Deliverable Forwards (NDFs)
+- Hedging policy automation with performance tracking
+- Unified dashboard for monitoring currency exposure
+- Coverage across 60+ currencies (APAC, Europe, LATAM, MENA, North America, Sub-Saharan Africa)
+
+### Financing
+- Supplier Payment Finance
+- Credit lines from £50,000 to £5 million
+- Repayment terms up to 150 days
+- No setup costs, no hidden fees, no early repayment charges
+- Unsecured (no security required)
+- Eligibility: £1M+ revenue, £100K+ tangible net worth, 2+ years trading history
+- Integration with hedging solutions for FX risk during repayment
+
+### Connect (APIs & Integrations)
+- Business APIs for payments, cash management, hedging, and reconciliation
+- Software integrations with 30+ tools (NetSuite, Xero, SAP, Sage, Oracle, Odoo)
+- Embedded finance capabilities (white-label, affiliate solutions)
+- Webhooks for real-time event notifications
+- OAuth2 authentication, DDoS protection
+- 99.9% uptime, 24/7 availability
+- Backward-compatible APIs
+
+## Solutions by Company Size
+
+### Growing Businesses
+- Global expansion with local and multi-currency accounts
+- Competitive exchange rates
+- Direct accounting software integrations
+- Customized currency risk management strategies
+- Corporate card spending control
+
+### Enterprise
+- Multi-entity treasury consolidation
+- Instant fee-free inter-entity fund transfers
+- Treasury management system integration (Cobase, Kyriba, Sage)
+- Sophisticated hedging strategies with unified dashboard
+- Role-based access and custom approval workflows
+- Real-time cash visibility across all entities and currencies
+
+### Institutions
+- Private markets ecosystem (PE, private credit, infrastructure, VC funds)
+- SPVs and securitizations
+- Family offices, endowments, high-net-worth investors
+- IBAN accounts across major fund jurisdictions (Luxembourg, Singapore, Netherlands, UK, USA, Hong Kong, Ireland)
+- Escrow and paymaster services
+- NAV and capital call financing connections
+- 2-week onboarding timeline
+- Sub-accounts, pledging, blocking certificates
+
+## Solutions by Industry
+
+### Charities & NGOs
+- Payments in 140+ currencies across Asia, Africa, and Latin America
+- Local donation collection in 11+ currencies
+- FX hedging for 60+ currencies to protect donation value
+- Pre-funding solutions for swift fund deployment
+
+### E-commerce
+- Marketplace collections (Amazon and others)
+- Like-for-like settlement eliminating FX fees
+- Local collections in 14+ currencies
+- MT940 statement downloads for reconciliation
+- Supplier payment finance for working capital
+
+### Maritime
+- Dedicated multi-currency accounts per vessel, payroll, office, or customer
+- Exchange rate locking for up to 10 years across 60+ currencies
+- Batch uploads, API integrations, and SFTP file transfers
+- 99.9% payment precision
+- Multi-currency Mastercards for crew/team spending
+
+### Travel
+- OTAs & Marketplaces: Local booking collection in 35 countries
+- Bedbanks: Unlimited virtual cards in 20+ currencies
+- Travel Software Platforms: Integrated FX and payments
+- Mass payment workflows in 140+ currencies
+
+## Security & Compliance
+
+- Two-factor authentication
+- Multi-level enterprise-grade encryption
+- Regulatory oversight across multiple jurisdictions
+- Segregated client fund accounts (safeguarding compliance)
+- Regulated payment services by national authorities globally
+
+## Platform Access
+
+- Web portal (24/7 access)
+- Mobile app
+- API access
+- Software integrations (no-code options available)
+
+## Locale-Specific Pages
+
+Ebury operates localized websites for the following markets:
+
+### English
+- [United Kingdom](https://ebury.com/en-gb)
+- [Ireland](https://ebury.com/en-ie)
+- [Australia](https://ebury.com/en-au)
+- [New Zealand](https://ebury.com/en-nz)
+- [Canada](https://ebury.com/en-ca)
+- [Hong Kong](https://ebury.com/en-hk)
+- [Singapore](https://ebury.com/en-sg)
+- [South Africa](https://ebury.com/en-za)
+
+### Spanish
+- [Spain](https://ebury.com/es-es)
+- [Mexico](https://ebury.com/es-mx)
+- [Chile](https://ebury.com/es-cl)
+
+### French
+- [France](https://ebury.com/fr-fr)
+- [Belgium (French)](https://ebury.com/fr-be)
+- [Switzerland (French)](https://ebury.com/fr-ch)
+
+### German
+- [Germany](https://ebury.com/de-de)
+- [Switzerland (German)](https://ebury.com/de-ch)
+
+### Dutch
+- [Netherlands](https://ebury.com/nl-nl)
+- [Belgium (Dutch)](https://ebury.com/nl-be)
+
+### Other European Languages
+- [Italy (Italian)](https://ebury.com/it-it)
+- [Portugal (Portuguese)](https://ebury.com/pt-pt)
+- [Poland (Polish)](https://ebury.com/pl-pl)
+- [Romania (Romanian)](https://ebury.com/ro-ro)
+- [Czech Republic (Czech)](https://ebury.com/cs-cz)
+- [Denmark (Danish)](https://ebury.com/da-dk)
+- [Sweden (Swedish)](https://ebury.com/sv-se)
+- [Hungary (Hungarian)](https://ebury.com/hu-hu)
+- [Bulgaria (Bulgarian)](https://ebury.com/bg-bg)
+- [Greece (Greek)](https://ebury.com/el-gr)
+- [Lithuania (Lithuanian)](https://ebury.com/lt-lt)
+
+## Key Pages (English - UK)
+
+- Homepage: https://ebury.com/en-gb
+- Business Accounts: https://ebury.com/en-gb/products/business-accounts
+- Hedge: https://ebury.com/en-gb/products/hedge
+- Financing: https://ebury.com/en-gb/products/financing/supplier-payment-finance
+- Connect: https://ebury.com/en-gb/products/connect
+- Growing Businesses: https://ebury.com/en-gb/solutions/by-company-size/growing-businesses
+- Enterprise: https://ebury.com/en-gb/solutions/by-company-size/enterprise
+- Institutions: https://ebury.com/en-gb/solutions/by-company-size/institutions
+- Charities & NGOs: https://ebury.com/en-gb/solutions/by-industry/charities-ngos
+- E-commerce: https://ebury.com/en-gb/solutions/by-industry/e-commerce
+- Maritime: https://ebury.com/en-gb/solutions/by-industry/maritime
+- Travel: https://ebury.com/en-gb/solutions/by-industry/travel
+
+## Contact & Resources
+
+- Blog: https://ebury.com/en-gb/blog
+- Help Centre: Available via main navigation
+- Currencies Coverage: Available via main navigation
+- Podcast: Available via main navigation
+- Product Guides: Available via main navigation
+- Market Insights: Available via main navigation
+- Careers: Available via company navigation
+- Press Room: Available via company navigation

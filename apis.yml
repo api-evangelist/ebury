@@ -1,23 +1,61 @@
 aid: ebury
 name: Ebury
-description: 'Ebury is a company surfaced via the API Evangelist harvest backlog (source: payments) and
-  added to the network as a stub for full-pipeline profiling.'
+image: https://cdn.prod.website-files.com/6911cdf6e0645000756617a4/698614febcc9cdb7dfeedd6d_Ebury%20Open%20Graph.jpg
+description: "Ebury is a global fintech providing international business accounts, multi‑currency payments, FX hedging, trade finance, and business APIs to over 25,000 businesses in more than 160 countries, supporting 140+ currencies. It helps companies manage cross‑border payments, mitigate foreign‑exchange risk, and scale globally through its digital platform."
 url: https://raw.githubusercontent.com/api-evangelist/ebury/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:payments
-x-tier: stub
-x-tier-reason: harvest
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-21 (modular-v1; was harvest)
 specificationVersion: '0.20'
 created: '2026-09-21'
 modified: '2026-09-21'
 tags:
 - Company
-apis: []
+- Fintech
+- Payments
+- API
+- Internationalapis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: SecurityTxt
+  url: well-known/ebury-online-security.txt
+- type: SecurityTxt
+  url: well-known/ebury-help-security.txt
+- type: WellKnown
+  url: well-known/ebury-well-known.yml
+- type: LLMsTxt
+  url: llms/ebury-llms.txt
+- type: TrustCenter
+  url: https://trust.ebury.com/
+- type: Support
+  url: https://help.ebury.com/en/
+- type: Login
+  url: https://online.ebury.com/login/
+- type: Blog
+  url: https://ebury.com/resources/blog
+- type: Documentation
+  url: https://help.ebury.com/
+- type: DomainSecurity
+  url: security/ebury-domain-security.yml
 - type: Website
   url: https://ebury.com/
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: "Developer documentation is only available as JavaScript‑rendered pages without a machine‑readable OpenAPI spec."
+  evidence:
+    - url: https://api.ebury.com/openapi.json
+      status: 000
+  checked: 2026-09-21
+x-enrichment:
+  date: '2026-09-21'
+  status: enriched
+  artifacts_added: 4
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
